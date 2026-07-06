@@ -1,5 +1,5 @@
 import Image from "next/image";
-import SpiralIcon from "./SpiralIcon";
+import RotatingSpiral from "./RotatingSpiral";
 import SignupForm from "./SignupForm";
 
 export default function Hero() {
@@ -19,7 +19,7 @@ export default function Hero() {
         Çacrée
       </h1>
 
-      <SpiralIcon className="relative h-56 w-56 drop-shadow-sm" />
+      <RotatingSpiral className="relative h-56 w-56 drop-shadow-sm" />
 
       <div className="relative flex flex-col items-center gap-6">
         <p className="max-w-xs text-balance text-sm leading-relaxed text-cream/95">
