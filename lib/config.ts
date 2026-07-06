@@ -14,7 +14,8 @@ export const GOOGLE_FORM_OPTIN_ENTRY = "entry.1178070430";
 export const GOOGLE_FORM_TIMESTAMP_ENTRY = "entry.847210269";
 
 // Lien externe vers le livre (Amazon, FNAC, etc.)
-export const BOOK_LINK = "https://www.example.com/replace-with-real-book-link";
+export const BOOK_LINK =
+  "https://www.fnac.com/a20922391/Julia-Cameron-Liberez-votre-creativite";
 
 // Adresse de contact affichée sur la page de politique de confidentialité,
 // pour les demandes d'accès/suppression de données (RGPD).
