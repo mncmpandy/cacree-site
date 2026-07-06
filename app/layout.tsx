@@ -26,9 +26,9 @@ const modernTypewriter = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Çacrée — Cercle de lecture mensuel",
+  title: "Çacrée — Cercle de lecture hebdomadaire",
   description:
-    "Cercle de lecture autour de The Artist's Way - Libérez votre créativité par Julia Cameron. Inscris-toi pour rejoindre les rencontres mensuelles à distance.",
+    "Cercle de lecture autour de The Artist's Way - Libérez votre créativité par Julia Cameron. Inscris-toi pour rejoindre les rencontres hebdomadaires à distance.",
 };
 
 export const viewport: Viewport = {

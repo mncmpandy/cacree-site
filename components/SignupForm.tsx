@@ -92,7 +92,8 @@ export default function SignupForm({
                   Rejoins le cercle de lecture
                 </p>
                 <p className="mt-1 text-sm text-ink/70">
-                  Laisse ton mail, pour rejoindre nos rendez-vous hebdomadaire
+                  Laisse ton mail, pour rejoindre nos rendez-vous
+                  hebdomadaires
                 </p>
                 <form
                   ref={formRef}

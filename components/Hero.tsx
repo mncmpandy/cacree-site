@@ -4,7 +4,7 @@ import SignupForm from "./SignupForm";
 
 export default function Hero() {
   return (
-    <section className="relative flex min-h-[85vh] flex-col items-center justify-between overflow-hidden rounded-b-[2.5rem] px-6 pb-10 pt-8 text-center">
+    <section className="hero-viewport relative flex flex-col items-center justify-between overflow-hidden px-6 pb-10 pt-8 text-center">
       <Image
         src="/images/hero-tree.jpg"
         alt=""
