@@ -19,4 +19,4 @@ export const BOOK_LINK =
 
 // Adresse de contact affichée sur la page de politique de confidentialité,
 // pour les demandes d'accès/suppression de données (RGPD).
-export const CONTACT_EMAIL = "contact@example.com";
+export const CONTACT_EMAIL = "contact@cacree.fr";
