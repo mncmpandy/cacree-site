@@ -56,8 +56,8 @@ export default function DescriptionSection() {
               sont prêts à changer ça.
             </p>
             <p>
-              On se retrouve une fois par semaine à partir du 31 juillet, à
-              distance, et juste les mots pour nous rapprocher !
+              On se retrouve une fois par semaine à partir du 31 juillet, en
+              visioconférence grâce au lien que je t&apos;enverrai.
             </p>
             <p>
               Inscris-toi sur le bouton en haut et, en attendant, tu peux te
